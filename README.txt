@@ -1,5 +1,5 @@
 Lab 01 - HTML & CSS 
-Student: Loc Tran
+Student: Tran Tang Loc
 ID: ITITWE22172
 
 Files included:
